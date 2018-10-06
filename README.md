@@ -1,6 +1,6 @@
 # Scrum-Zertfizierung
 Übersicht über die relevanten Scrum-Zertifikate
-(Lizenz siehe Lizenz.md - CC-BY-SY von oose Innovative Informatik eG)
+(Lizenz siehe Lizenz.md - CC-BY-SA von oose Innovative Informatik eG)
 
 
 Vergleich der relevanten agilen Zertifizierungen (Stand: Juli 2015)
