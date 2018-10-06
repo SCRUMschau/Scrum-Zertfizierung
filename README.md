@@ -1,6 +1,6 @@
 # Scrum-Zertfizierung
 Übersicht über die relevanten Scrum-Master-Zertifikate
-(Lizenz siehe Lizenz.md - CC-BY-SA von oose Innovative Informatik eG)
+(Lizenz siehe Lizenz.md - CC-BY-SA von oose Innovative Informatik eG, modifizierte Inhalte hier)
 
 
 Vergleich der relevanten Zertifizierungen für Scrum Master
